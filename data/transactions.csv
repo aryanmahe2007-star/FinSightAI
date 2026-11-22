@@ -1,0 +1,888 @@
+date,type,category,amount,payment_mode,description
+2026-05-24,Outflow,Electricity,4722.21,UPI,Business expense paid
+2026-05-24,Inflow,Cash Sales,1069.81,Bank Transfer,Customer payment received
+2026-05-24,Outflow,Staff Salary,1028.63,Bank Transfer,Business expense paid
+2026-05-24,Inflow,UPI Sales,5859.39,Cash,Customer payment received
+2026-05-24,Inflow,Customer Payment,7940.03,UPI,Customer payment received
+2026-05-24,Inflow,UPI Sales,354.41,UPI,Customer payment received
+2026-05-25,Inflow,Cash Sales,1374.1,Bank Transfer,Customer payment received
+2026-05-25,Inflow,Cash Sales,5061.57,Bank Transfer,Customer payment received
+2026-05-25,Outflow,Inventory Purchase,469.41,Bank Transfer,Business expense paid
+2026-05-26,Inflow,UPI Sales,7606.42,Cash,Customer payment received
+2026-05-26,Outflow,Inventory Purchase,292.6,Cash,Business expense paid
+2026-05-26,Outflow,Miscellaneous,4162.93,UPI,Business expense paid
+2026-05-26,Outflow,Electricity,5474.06,Cash,Business expense paid
+2026-05-26,Outflow,Rent,2665.9,Cash,Business expense paid
+2026-05-26,Inflow,UPI Sales,541.11,Cash,Customer payment received
+2026-05-26,Outflow,Rent,2491.87,Cash,Business expense paid
+2026-05-27,Inflow,Customer Payment,6802.91,UPI,Customer payment received
+2026-05-27,Inflow,Retail Sales,4817.98,UPI,Customer payment received
+2026-05-27,Inflow,Customer Payment,2425.19,UPI,Customer payment received
+2026-05-27,Outflow,Inventory Purchase,290.69,UPI,Business expense paid
+2026-05-27,Outflow,Staff Salary,1902.23,Bank Transfer,Business expense paid
+2026-05-27,Outflow,Inventory Purchase,4325.78,Bank Transfer,Business expense paid
+2026-05-28,Inflow,UPI Sales,3060.19,UPI,Customer payment received
+2026-05-28,Outflow,Inventory Purchase,3815.13,Cash,Business expense paid
+2026-05-28,Inflow,Cash Sales,2694.56,UPI,Customer payment received
+2026-05-29,Inflow,UPI Sales,7131.54,UPI,Customer payment received
+2026-05-29,Inflow,Cash Sales,5791.98,UPI,Customer payment received
+2026-05-29,Outflow,Miscellaneous,4671.61,Bank Transfer,Business expense paid
+2026-05-29,Inflow,Cash Sales,3592.07,Cash,Customer payment received
+2026-05-29,Inflow,Cash Sales,542.0,Bank Transfer,Customer payment received
+2026-05-30,Inflow,Customer Payment,5655.47,UPI,Customer payment received
+2026-05-30,Inflow,Retail Sales,4456.78,UPI,Customer payment received
+2026-05-30,Inflow,Customer Payment,4911.26,Bank Transfer,Customer payment received
+2026-05-31,Outflow,Transport,1914.68,UPI,Business expense paid
+2026-05-31,Outflow,Staff Salary,1466.95,Cash,Business expense paid
+2026-05-31,Outflow,Rent,908.11,UPI,Business expense paid
+2026-05-31,Inflow,Retail Sales,2395.42,Bank Transfer,Customer payment received
+2026-05-31,Inflow,Customer Payment,3014.78,Bank Transfer,Customer payment received
+2026-05-31,Inflow,Customer Payment,4412.49,Cash,Customer payment received
+2026-06-01,Outflow,Rent,2158.17,Bank Transfer,Business expense paid
+2026-06-01,Inflow,Customer Payment,4294.69,UPI,Customer payment received
+2026-06-01,Inflow,UPI Sales,7782.72,Cash,Customer payment received
+2026-06-01,Outflow,Electricity,1945.09,UPI,Business expense paid
+2026-06-01,Outflow,Electricity,3735.47,Cash,Business expense paid
+2026-06-01,Inflow,Cash Sales,2445.58,UPI,Customer payment received
+2026-06-01,Inflow,UPI Sales,1415.69,Cash,Customer payment received
+2026-06-02,Inflow,Customer Payment,2129.81,Bank Transfer,Customer payment received
+2026-06-02,Outflow,Transport,3867.37,Cash,Business expense paid
+2026-06-02,Inflow,Cash Sales,995.23,UPI,Customer payment received
+2026-06-02,Inflow,Cash Sales,1736.19,UPI,Customer payment received
+2026-06-02,Outflow,Staff Salary,4129.87,Bank Transfer,Business expense paid
+2026-06-02,Outflow,Miscellaneous,1513.68,Bank Transfer,Business expense paid
+2026-06-03,Outflow,Miscellaneous,5633.03,UPI,Business expense paid
+2026-06-03,Outflow,Inventory Purchase,858.15,Bank Transfer,Business expense paid
+2026-06-03,Inflow,UPI Sales,2286.15,Cash,Customer payment received
+2026-06-03,Outflow,Staff Salary,3271.97,Cash,Business expense paid
+2026-06-03,Outflow,Maintenance,5403.85,UPI,Business expense paid
+2026-06-03,Outflow,Miscellaneous,2166.37,Bank Transfer,Business expense paid
+2026-06-04,Outflow,Electricity,5166.68,Cash,Business expense paid
+2026-06-04,Outflow,Staff Salary,688.01,Cash,Business expense paid
+2026-06-04,Outflow,Maintenance,253.34,Cash,Business expense paid
+2026-06-04,Outflow,Inventory Purchase,229.36,Cash,Business expense paid
+2026-06-04,Inflow,UPI Sales,3752.87,UPI,Customer payment received
+2026-06-05,Inflow,Customer Payment,2126.82,UPI,Customer payment received
+2026-06-05,Inflow,Customer Payment,5302.17,Bank Transfer,Customer payment received
+2026-06-05,Outflow,Inventory Purchase,3346.73,Bank Transfer,Business expense paid
+2026-06-06,Inflow,UPI Sales,2178.72,Cash,Customer payment received
+2026-06-06,Outflow,Electricity,5373.87,Bank Transfer,Business expense paid
+2026-06-06,Inflow,Retail Sales,4170.31,Bank Transfer,Customer payment received
+2026-06-06,Inflow,Retail Sales,2072.43,Bank Transfer,Customer payment received
+2026-06-06,Inflow,Customer Payment,5270.14,UPI,Customer payment received
+2026-06-07,Outflow,Transport,1821.45,Cash,Business expense paid
+2026-06-07,Inflow,Retail Sales,7638.65,UPI,Customer payment received
+2026-06-07,Inflow,Retail Sales,4706.65,UPI,Customer payment received
+2026-06-07,Inflow,Retail Sales,3265.25,Bank Transfer,Customer payment received
+2026-06-07,Inflow,Cash Sales,1605.09,UPI,Customer payment received
+2026-06-07,Inflow,UPI Sales,5659.43,Cash,Customer payment received
+2026-06-08,Inflow,UPI Sales,3061.58,Bank Transfer,Customer payment received
+2026-06-08,Inflow,UPI Sales,2783.64,UPI,Customer payment received
+2026-06-08,Inflow,UPI Sales,3068.08,UPI,Customer payment received
+2026-06-08,Inflow,UPI Sales,6537.87,UPI,Customer payment received
+2026-06-09,Inflow,Cash Sales,4161.68,UPI,Customer payment received
+2026-06-09,Inflow,Customer Payment,5705.14,Cash,Customer payment received
+2026-06-09,Outflow,Miscellaneous,360.18,Cash,Business expense paid
+2026-06-09,Inflow,Cash Sales,5474.6,Bank Transfer,Customer payment received
+2026-06-09,Inflow,Cash Sales,7860.17,Cash,Customer payment received
+2026-06-09,Inflow,UPI Sales,2226.94,Cash,Customer payment received
+2026-06-09,Outflow,Maintenance,3315.08,UPI,Business expense paid
+2026-06-10,Outflow,Staff Salary,1451.76,UPI,Business expense paid
+2026-06-10,Inflow,UPI Sales,697.95,Cash,Customer payment received
+2026-06-10,Inflow,Cash Sales,1365.32,UPI,Customer payment received
+2026-06-11,Inflow,UPI Sales,616.22,Bank Transfer,Customer payment received
+2026-06-11,Inflow,UPI Sales,904.11,UPI,Customer payment received
+2026-06-11,Inflow,UPI Sales,6737.05,UPI,Customer payment received
+2026-06-11,Outflow,Inventory Purchase,1205.11,UPI,Business expense paid
+2026-06-12,Inflow,UPI Sales,5802.39,UPI,Customer payment received
+2026-06-12,Inflow,Customer Payment,4278.56,Bank Transfer,Customer payment received
+2026-06-12,Inflow,Retail Sales,3530.92,Cash,Customer payment received
+2026-06-12,Inflow,Retail Sales,1225.27,UPI,Customer payment received
+2026-06-13,Inflow,Retail Sales,2697.88,Cash,Customer payment received
+2026-06-13,Outflow,Staff Salary,299.53,Cash,Business expense paid
+2026-06-13,Inflow,Cash Sales,2966.54,Cash,Customer payment received
+2026-06-13,Inflow,Cash Sales,670.05,Cash,Customer payment received
+2026-06-13,Inflow,UPI Sales,2308.88,Cash,Customer payment received
+2026-06-13,Inflow,UPI Sales,4158.01,UPI,Customer payment received
+2026-06-14,Inflow,Customer Payment,7567.97,Cash,Customer payment received
+2026-06-14,Inflow,Customer Payment,5200.31,Cash,Customer payment received
+2026-06-14,Inflow,Retail Sales,3828.55,Bank Transfer,Customer payment received
+2026-06-14,Outflow,Staff Salary,2439.4,UPI,Business expense paid
+2026-06-14,Outflow,Electricity,1335.59,UPI,Business expense paid
+2026-06-14,Inflow,UPI Sales,440.31,Bank Transfer,Customer payment received
+2026-06-14,Inflow,Cash Sales,848.15,UPI,Customer payment received
+2026-06-15,Outflow,Maintenance,4923.92,UPI,Business expense paid
+2026-06-15,Inflow,UPI Sales,5664.88,UPI,Customer payment received
+2026-06-15,Outflow,Staff Salary,2624.09,UPI,Business expense paid
+2026-06-15,Inflow,UPI Sales,3560.73,Bank Transfer,Customer payment received
+2026-06-16,Outflow,Staff Salary,2357.7,Bank Transfer,Business expense paid
+2026-06-16,Inflow,Cash Sales,7466.83,UPI,Customer payment received
+2026-06-16,Inflow,Cash Sales,6081.71,UPI,Customer payment received
+2026-06-17,Inflow,Retail Sales,4414.32,UPI,Customer payment received
+2026-06-17,Inflow,Cash Sales,1069.88,UPI,Customer payment received
+2026-06-17,Outflow,Staff Salary,2258.45,Cash,Business expense paid
+2026-06-17,Outflow,Staff Salary,3525.94,Bank Transfer,Business expense paid
+2026-06-17,Inflow,Retail Sales,2557.72,UPI,Customer payment received
+2026-06-18,Outflow,Staff Salary,5687.93,UPI,Business expense paid
+2026-06-18,Inflow,Retail Sales,4107.04,Bank Transfer,Customer payment received
+2026-06-18,Outflow,Rent,2760.88,Bank Transfer,Business expense paid
+2026-06-18,Inflow,Cash Sales,1201.42,UPI,Customer payment received
+2026-06-18,Outflow,Staff Salary,5227.84,Cash,Business expense paid
+2026-06-18,Inflow,Retail Sales,2013.84,UPI,Customer payment received
+2026-06-19,Outflow,Rent,671.82,UPI,Business expense paid
+2026-06-19,Inflow,Customer Payment,3181.89,UPI,Customer payment received
+2026-06-19,Outflow,Inventory Purchase,5694.04,UPI,Business expense paid
+2026-06-19,Inflow,Customer Payment,3197.2,Bank Transfer,Customer payment received
+2026-06-20,Outflow,Maintenance,4289.49,Cash,Business expense paid
+2026-06-20,Outflow,Miscellaneous,2719.82,UPI,Business expense paid
+2026-06-20,Inflow,Customer Payment,4700.34,UPI,Customer payment received
+2026-06-20,Outflow,Miscellaneous,4527.06,UPI,Business expense paid
+2026-06-20,Inflow,Retail Sales,3186.5,UPI,Customer payment received
+2026-06-21,Outflow,Maintenance,2730.75,Cash,Business expense paid
+2026-06-21,Inflow,Customer Payment,4581.24,Bank Transfer,Customer payment received
+2026-06-21,Outflow,Maintenance,5562.93,UPI,Business expense paid
+2026-06-22,Inflow,Customer Payment,880.85,Bank Transfer,Customer payment received
+2026-06-22,Inflow,UPI Sales,2567.6,UPI,Customer payment received
+2026-06-22,Inflow,UPI Sales,3258.35,Bank Transfer,Customer payment received
+2026-06-22,Inflow,Customer Payment,7682.01,Cash,Customer payment received
+2026-06-22,Inflow,Customer Payment,2884.58,Cash,Customer payment received
+2026-06-22,Inflow,UPI Sales,3289.67,Cash,Customer payment received
+2026-06-23,Inflow,Retail Sales,2301.61,Bank Transfer,Customer payment received
+2026-06-23,Outflow,Inventory Purchase,1822.63,UPI,Business expense paid
+2026-06-23,Outflow,Staff Salary,1771.55,UPI,Business expense paid
+2026-06-23,Outflow,Transport,5655.08,Bank Transfer,Business expense paid
+2026-06-23,Outflow,Miscellaneous,5531.22,Cash,Business expense paid
+2026-06-23,Outflow,Rent,3399.21,UPI,Business expense paid
+2026-06-24,Outflow,Rent,5926.2,UPI,Business expense paid
+2026-06-24,Inflow,UPI Sales,3232.86,Cash,Customer payment received
+2026-06-24,Outflow,Inventory Purchase,5062.31,Cash,Business expense paid
+2026-06-25,Inflow,Retail Sales,405.27,Bank Transfer,Customer payment received
+2026-06-25,Outflow,Inventory Purchase,3299.21,UPI,Business expense paid
+2026-06-25,Outflow,Transport,3593.87,UPI,Business expense paid
+2026-06-26,Outflow,Electricity,1634.62,Cash,Business expense paid
+2026-06-26,Inflow,Retail Sales,7646.19,UPI,Customer payment received
+2026-06-26,Inflow,Retail Sales,5472.1,Cash,Customer payment received
+2026-06-26,Inflow,Customer Payment,470.82,Cash,Customer payment received
+2026-06-26,Inflow,UPI Sales,6701.56,Cash,Customer payment received
+2026-06-26,Outflow,Maintenance,5814.25,Cash,Business expense paid
+2026-06-26,Outflow,Inventory Purchase,3621.74,Bank Transfer,Business expense paid
+2026-06-27,Inflow,UPI Sales,6498.84,Bank Transfer,Customer payment received
+2026-06-27,Inflow,Customer Payment,7849.56,Cash,Customer payment received
+2026-06-27,Inflow,UPI Sales,4572.08,Bank Transfer,Customer payment received
+2026-06-27,Outflow,Staff Salary,3375.19,UPI,Business expense paid
+2026-06-27,Outflow,Staff Salary,1928.16,Cash,Business expense paid
+2026-06-27,Outflow,Transport,4819.54,Cash,Business expense paid
+2026-06-27,Outflow,Rent,4659.72,UPI,Business expense paid
+2026-06-28,Inflow,UPI Sales,2831.39,Bank Transfer,Customer payment received
+2026-06-28,Inflow,Cash Sales,884.15,UPI,Customer payment received
+2026-06-28,Inflow,Customer Payment,1469.65,Cash,Customer payment received
+2026-06-28,Outflow,Staff Salary,1254.9,UPI,Business expense paid
+2026-06-29,Outflow,Electricity,4071.83,Cash,Business expense paid
+2026-06-29,Inflow,Cash Sales,614.69,UPI,Customer payment received
+2026-06-29,Inflow,UPI Sales,1662.98,UPI,Customer payment received
+2026-06-29,Inflow,Retail Sales,3848.0,Cash,Customer payment received
+2026-06-29,Outflow,Inventory Purchase,3119.82,UPI,Business expense paid
+2026-06-30,Inflow,Retail Sales,4004.82,Cash,Customer payment received
+2026-06-30,Inflow,UPI Sales,1508.73,UPI,Customer payment received
+2026-06-30,Inflow,Customer Payment,6507.75,UPI,Customer payment received
+2026-06-30,Inflow,Customer Payment,1911.99,Bank Transfer,Customer payment received
+2026-06-30,Outflow,Maintenance,3785.88,Bank Transfer,Business expense paid
+2026-07-01,Outflow,Maintenance,1056.89,Bank Transfer,Business expense paid
+2026-07-01,Outflow,Miscellaneous,5097.76,Bank Transfer,Business expense paid
+2026-07-01,Inflow,Retail Sales,6977.56,Cash,Customer payment received
+2026-07-01,Inflow,Cash Sales,1107.49,Bank Transfer,Customer payment received
+2026-07-02,Inflow,Cash Sales,2780.01,Bank Transfer,Customer payment received
+2026-07-02,Inflow,UPI Sales,1222.17,UPI,Customer payment received
+2026-07-02,Inflow,Retail Sales,5529.09,Bank Transfer,Customer payment received
+2026-07-02,Inflow,UPI Sales,969.29,Bank Transfer,Customer payment received
+2026-07-02,Outflow,Miscellaneous,4523.55,UPI,Business expense paid
+2026-07-02,Inflow,UPI Sales,2485.07,Cash,Customer payment received
+2026-07-02,Outflow,Rent,1617.25,Bank Transfer,Business expense paid
+2026-07-03,Inflow,Retail Sales,2126.65,Cash,Customer payment received
+2026-07-03,Inflow,UPI Sales,2193.87,Cash,Customer payment received
+2026-07-03,Inflow,UPI Sales,6505.16,Bank Transfer,Customer payment received
+2026-07-03,Outflow,Electricity,3242.17,UPI,Business expense paid
+2026-07-03,Outflow,Miscellaneous,5400.34,Bank Transfer,Business expense paid
+2026-07-03,Outflow,Maintenance,5855.39,Cash,Business expense paid
+2026-07-03,Inflow,Cash Sales,6620.63,Cash,Customer payment received
+2026-07-04,Inflow,Cash Sales,6757.09,UPI,Customer payment received
+2026-07-04,Inflow,UPI Sales,5774.33,UPI,Customer payment received
+2026-07-04,Outflow,Staff Salary,866.05,Cash,Business expense paid
+2026-07-04,Outflow,Maintenance,3571.18,Bank Transfer,Business expense paid
+2026-07-04,Outflow,Transport,3289.02,UPI,Business expense paid
+2026-07-05,Inflow,Retail Sales,787.99,Cash,Customer payment received
+2026-07-05,Inflow,UPI Sales,976.58,Bank Transfer,Customer payment received
+2026-07-05,Outflow,Inventory Purchase,876.84,Bank Transfer,Business expense paid
+2026-07-05,Inflow,Cash Sales,6416.03,Bank Transfer,Customer payment received
+2026-07-06,Outflow,Staff Salary,5797.16,Cash,Business expense paid
+2026-07-06,Outflow,Electricity,5642.37,Bank Transfer,Business expense paid
+2026-07-06,Inflow,Customer Payment,5856.29,UPI,Customer payment received
+2026-07-07,Outflow,Maintenance,4837.32,Bank Transfer,Business expense paid
+2026-07-07,Inflow,Retail Sales,2114.83,Cash,Customer payment received
+2026-07-07,Inflow,Customer Payment,2734.71,Cash,Customer payment received
+2026-07-07,Inflow,Customer Payment,3780.0,Cash,Customer payment received
+2026-07-07,Outflow,Transport,1947.99,Bank Transfer,Business expense paid
+2026-07-08,Inflow,Retail Sales,3314.41,Cash,Customer payment received
+2026-07-08,Inflow,Customer Payment,2063.5,Bank Transfer,Customer payment received
+2026-07-08,Inflow,UPI Sales,2862.68,Bank Transfer,Customer payment received
+2026-07-09,Inflow,Cash Sales,7065.44,UPI,Customer payment received
+2026-07-09,Inflow,Cash Sales,4713.26,UPI,Customer payment received
+2026-07-09,Inflow,Retail Sales,5743.75,Bank Transfer,Customer payment received
+2026-07-09,Outflow,Maintenance,1386.36,Cash,Business expense paid
+2026-07-10,Inflow,UPI Sales,2934.03,Cash,Customer payment received
+2026-07-10,Inflow,Cash Sales,6817.68,Bank Transfer,Customer payment received
+2026-07-10,Outflow,Transport,3020.87,UPI,Business expense paid
+2026-07-10,Outflow,Miscellaneous,3670.97,Cash,Business expense paid
+2026-07-11,Inflow,Customer Payment,1698.3,Cash,Customer payment received
+2026-07-11,Inflow,UPI Sales,3386.56,Bank Transfer,Customer payment received
+2026-07-11,Inflow,Cash Sales,1480.81,UPI,Customer payment received
+2026-07-11,Inflow,UPI Sales,5008.2,Bank Transfer,Customer payment received
+2026-07-11,Outflow,Electricity,5606.29,UPI,Business expense paid
+2026-07-12,Outflow,Rent,4673.23,Bank Transfer,Business expense paid
+2026-07-12,Inflow,UPI Sales,895.37,Cash,Customer payment received
+2026-07-12,Outflow,Maintenance,5481.98,UPI,Business expense paid
+2026-07-12,Inflow,Retail Sales,1574.51,Cash,Customer payment received
+2026-07-12,Outflow,Inventory Purchase,5245.4,Bank Transfer,Business expense paid
+2026-07-12,Inflow,Cash Sales,3372.32,UPI,Customer payment received
+2026-07-12,Outflow,Rent,4856.55,UPI,Business expense paid
+2026-07-13,Inflow,Cash Sales,3491.69,Cash,Customer payment received
+2026-07-13,Outflow,Rent,2901.06,Bank Transfer,Business expense paid
+2026-07-13,Outflow,Inventory Purchase,3605.0,Bank Transfer,Business expense paid
+2026-07-13,Inflow,Cash Sales,2211.34,UPI,Customer payment received
+2026-07-14,Inflow,Customer Payment,2698.34,UPI,Customer payment received
+2026-07-14,Inflow,UPI Sales,1994.75,Cash,Customer payment received
+2026-07-14,Outflow,Miscellaneous,5858.14,UPI,Business expense paid
+2026-07-14,Inflow,UPI Sales,6926.87,Bank Transfer,Customer payment received
+2026-07-14,Outflow,Inventory Purchase,1937.66,UPI,Business expense paid
+2026-07-14,Inflow,Cash Sales,1916.27,Bank Transfer,Customer payment received
+2026-07-15,Inflow,Retail Sales,3934.92,Bank Transfer,Customer payment received
+2026-07-15,Inflow,UPI Sales,5798.26,Cash,Customer payment received
+2026-07-15,Inflow,Customer Payment,4004.38,Cash,Customer payment received
+2026-07-15,Inflow,Cash Sales,1092.96,UPI,Customer payment received
+2026-07-15,Inflow,Cash Sales,3174.48,Cash,Customer payment received
+2026-07-15,Outflow,Rent,2570.66,Bank Transfer,Business expense paid
+2026-07-15,Outflow,Rent,5228.56,UPI,Business expense paid
+2026-07-16,Inflow,Customer Payment,1810.07,Bank Transfer,Customer payment received
+2026-07-16,Inflow,UPI Sales,2912.39,UPI,Customer payment received
+2026-07-16,Inflow,Retail Sales,4586.76,Cash,Customer payment received
+2026-07-17,Inflow,UPI Sales,4944.62,Cash,Customer payment received
+2026-07-17,Outflow,Staff Salary,5677.58,Cash,Business expense paid
+2026-07-17,Inflow,Cash Sales,2794.72,Cash,Customer payment received
+2026-07-17,Inflow,Cash Sales,5966.47,UPI,Customer payment received
+2026-07-17,Inflow,Retail Sales,7048.62,UPI,Customer payment received
+2026-07-18,Outflow,Inventory Purchase,4941.17,Bank Transfer,Business expense paid
+2026-07-18,Inflow,UPI Sales,3095.56,Bank Transfer,Customer payment received
+2026-07-18,Inflow,Retail Sales,2957.98,Cash,Customer payment received
+2026-07-18,Inflow,Retail Sales,2567.39,Cash,Customer payment received
+2026-07-18,Outflow,Inventory Purchase,5237.11,Bank Transfer,Business expense paid
+2026-07-18,Outflow,Inventory Purchase,3011.71,UPI,Business expense paid
+2026-07-19,Inflow,Retail Sales,3399.64,UPI,Customer payment received
+2026-07-19,Inflow,Cash Sales,3547.12,Cash,Customer payment received
+2026-07-19,Inflow,Retail Sales,5622.41,UPI,Customer payment received
+2026-07-20,Outflow,Transport,4927.32,UPI,Business expense paid
+2026-07-20,Inflow,Retail Sales,3420.41,Cash,Customer payment received
+2026-07-20,Outflow,Miscellaneous,818.16,Cash,Business expense paid
+2026-07-20,Inflow,Retail Sales,2352.04,Bank Transfer,Customer payment received
+2026-07-20,Inflow,Customer Payment,5174.86,UPI,Customer payment received
+2026-07-21,Outflow,Rent,2545.41,Cash,Business expense paid
+2026-07-21,Inflow,Customer Payment,3024.81,Cash,Customer payment received
+2026-07-21,Outflow,Electricity,723.95,Bank Transfer,Business expense paid
+2026-07-21,Inflow,Retail Sales,6745.51,Bank Transfer,Customer payment received
+2026-07-22,Outflow,Miscellaneous,3740.35,Cash,Business expense paid
+2026-07-22,Inflow,Cash Sales,7646.47,Cash,Customer payment received
+2026-07-22,Outflow,Inventory Purchase,1765.49,Bank Transfer,Business expense paid
+2026-07-22,Inflow,Cash Sales,6779.78,UPI,Customer payment received
+2026-07-22,Inflow,Retail Sales,1490.98,UPI,Customer payment received
+2026-07-22,Outflow,Transport,2197.43,UPI,Business expense paid
+2026-07-23,Inflow,Cash Sales,4906.8,UPI,Customer payment received
+2026-07-23,Inflow,Cash Sales,898.79,Bank Transfer,Customer payment received
+2026-07-23,Inflow,UPI Sales,1093.82,UPI,Customer payment received
+2026-07-24,Outflow,Inventory Purchase,993.55,Cash,Business expense paid
+2026-07-24,Outflow,Inventory Purchase,1273.77,Cash,Business expense paid
+2026-07-24,Outflow,Electricity,4446.9,UPI,Business expense paid
+2026-07-24,Outflow,Transport,4215.2,Cash,Business expense paid
+2026-07-24,Outflow,Rent,3038.66,Bank Transfer,Business expense paid
+2026-07-24,Outflow,Inventory Purchase,5675.54,Bank Transfer,Business expense paid
+2026-07-25,Inflow,Retail Sales,1690.43,UPI,Customer payment received
+2026-07-25,Inflow,Cash Sales,561.38,UPI,Customer payment received
+2026-07-25,Outflow,Electricity,5561.5,Cash,Business expense paid
+2026-07-25,Inflow,Retail Sales,3951.45,Cash,Customer payment received
+2026-07-26,Outflow,Rent,3230.12,Bank Transfer,Business expense paid
+2026-07-26,Inflow,Cash Sales,3108.17,UPI,Customer payment received
+2026-07-26,Inflow,Retail Sales,4383.04,Cash,Customer payment received
+2026-07-26,Outflow,Staff Salary,3520.08,UPI,Business expense paid
+2026-07-26,Inflow,UPI Sales,2754.39,Cash,Customer payment received
+2026-07-26,Inflow,Retail Sales,5042.15,Cash,Customer payment received
+2026-07-27,Inflow,UPI Sales,7925.63,Bank Transfer,Customer payment received
+2026-07-27,Outflow,Transport,2426.99,Bank Transfer,Business expense paid
+2026-07-27,Inflow,UPI Sales,3000.48,Cash,Customer payment received
+2026-07-27,Inflow,UPI Sales,3995.04,UPI,Customer payment received
+2026-07-28,Outflow,Rent,731.86,Bank Transfer,Business expense paid
+2026-07-28,Inflow,Retail Sales,5938.49,UPI,Customer payment received
+2026-07-28,Inflow,UPI Sales,2586.92,Cash,Customer payment received
+2026-07-28,Inflow,UPI Sales,4836.14,UPI,Customer payment received
+2026-07-28,Outflow,Miscellaneous,2681.08,UPI,Business expense paid
+2026-07-28,Inflow,Customer Payment,1980.55,Cash,Customer payment received
+2026-07-29,Outflow,Electricity,3613.61,Bank Transfer,Business expense paid
+2026-07-29,Outflow,Maintenance,3684.63,Cash,Business expense paid
+2026-07-29,Inflow,Retail Sales,6023.82,Bank Transfer,Customer payment received
+2026-07-29,Inflow,Retail Sales,5302.28,UPI,Customer payment received
+2026-07-29,Outflow,Maintenance,1537.88,Cash,Business expense paid
+2026-07-29,Inflow,Retail Sales,1735.57,Bank Transfer,Customer payment received
+2026-07-29,Outflow,Transport,535.49,Bank Transfer,Business expense paid
+2026-07-30,Inflow,Customer Payment,7960.79,UPI,Customer payment received
+2026-07-30,Inflow,Cash Sales,6138.44,Cash,Customer payment received
+2026-07-30,Outflow,Electricity,4931.83,Cash,Business expense paid
+2026-07-31,Inflow,Cash Sales,568.46,Cash,Customer payment received
+2026-07-31,Outflow,Electricity,5289.27,Bank Transfer,Business expense paid
+2026-07-31,Inflow,Retail Sales,7143.36,UPI,Customer payment received
+2026-07-31,Outflow,Rent,4895.19,UPI,Business expense paid
+2026-07-31,Inflow,Cash Sales,2466.71,Bank Transfer,Customer payment received
+2026-07-31,Inflow,Cash Sales,5870.33,Cash,Customer payment received
+2026-07-31,Inflow,Retail Sales,1995.41,UPI,Customer payment received
+2026-08-01,Inflow,Retail Sales,773.68,UPI,Customer payment received
+2026-08-01,Inflow,Retail Sales,7280.16,Bank Transfer,Customer payment received
+2026-08-01,Inflow,UPI Sales,4487.1,UPI,Customer payment received
+2026-08-01,Inflow,UPI Sales,4313.7,UPI,Customer payment received
+2026-08-01,Inflow,Customer Payment,5754.39,Bank Transfer,Customer payment received
+2026-08-01,Inflow,Retail Sales,5537.08,Bank Transfer,Customer payment received
+2026-08-02,Outflow,Miscellaneous,5313.5,UPI,Business expense paid
+2026-08-02,Outflow,Electricity,5298.61,Cash,Business expense paid
+2026-08-02,Inflow,Cash Sales,2060.41,Bank Transfer,Customer payment received
+2026-08-02,Inflow,Customer Payment,4582.6,UPI,Customer payment received
+2026-08-02,Inflow,Cash Sales,1787.12,UPI,Customer payment received
+2026-08-03,Outflow,Inventory Purchase,871.89,Cash,Business expense paid
+2026-08-03,Inflow,Customer Payment,6603.83,Cash,Customer payment received
+2026-08-03,Inflow,Cash Sales,4467.75,Cash,Customer payment received
+2026-08-03,Inflow,Customer Payment,1682.13,UPI,Customer payment received
+2026-08-03,Inflow,Customer Payment,1637.9,Cash,Customer payment received
+2026-08-04,Inflow,Retail Sales,6236.58,UPI,Customer payment received
+2026-08-04,Inflow,Retail Sales,745.99,Bank Transfer,Customer payment received
+2026-08-04,Outflow,Maintenance,5846.24,UPI,Business expense paid
+2026-08-04,Inflow,Cash Sales,1301.66,UPI,Customer payment received
+2026-08-04,Inflow,Retail Sales,470.35,Cash,Customer payment received
+2026-08-04,Inflow,Customer Payment,6232.14,Cash,Customer payment received
+2026-08-05,Inflow,UPI Sales,7977.86,UPI,Customer payment received
+2026-08-05,Inflow,Retail Sales,1559.9,Bank Transfer,Customer payment received
+2026-08-05,Outflow,Electricity,1480.46,Cash,Business expense paid
+2026-08-05,Outflow,Staff Salary,3996.17,Bank Transfer,Business expense paid
+2026-08-06,Outflow,Staff Salary,381.55,UPI,Business expense paid
+2026-08-06,Outflow,Transport,3903.45,Cash,Business expense paid
+2026-08-06,Outflow,Transport,5907.07,UPI,Business expense paid
+2026-08-06,Inflow,UPI Sales,2070.65,UPI,Customer payment received
+2026-08-06,Inflow,Retail Sales,5317.83,Cash,Customer payment received
+2026-08-07,Inflow,Customer Payment,1526.19,UPI,Customer payment received
+2026-08-07,Outflow,Transport,1091.22,Bank Transfer,Business expense paid
+2026-08-07,Outflow,Staff Salary,303.6,UPI,Business expense paid
+2026-08-07,Inflow,Retail Sales,7321.14,Cash,Customer payment received
+2026-08-07,Inflow,UPI Sales,3858.15,Cash,Customer payment received
+2026-08-07,Inflow,Retail Sales,4976.26,UPI,Customer payment received
+2026-08-08,Inflow,UPI Sales,4781.18,UPI,Customer payment received
+2026-08-08,Inflow,Customer Payment,2689.79,UPI,Customer payment received
+2026-08-08,Inflow,Retail Sales,857.84,Cash,Customer payment received
+2026-08-09,Outflow,Inventory Purchase,5725.36,UPI,Business expense paid
+2026-08-09,Inflow,UPI Sales,6068.54,UPI,Customer payment received
+2026-08-09,Inflow,Retail Sales,4695.96,Bank Transfer,Customer payment received
+2026-08-09,Inflow,UPI Sales,1919.69,UPI,Customer payment received
+2026-08-09,Inflow,Customer Payment,7547.53,UPI,Customer payment received
+2026-08-10,Inflow,Retail Sales,2999.83,UPI,Customer payment received
+2026-08-10,Outflow,Rent,2502.16,Cash,Business expense paid
+2026-08-10,Outflow,Rent,4198.9,Cash,Business expense paid
+2026-08-10,Outflow,Rent,1171.4,UPI,Business expense paid
+2026-08-11,Inflow,Cash Sales,543.21,Cash,Customer payment received
+2026-08-11,Inflow,Cash Sales,4467.98,Cash,Customer payment received
+2026-08-11,Outflow,Rent,3826.77,Cash,Business expense paid
+2026-08-11,Inflow,Cash Sales,916.88,Cash,Customer payment received
+2026-08-11,Outflow,Rent,2989.24,Bank Transfer,Business expense paid
+2026-08-12,Inflow,UPI Sales,928.55,Cash,Customer payment received
+2026-08-12,Inflow,Customer Payment,1528.49,UPI,Customer payment received
+2026-08-12,Inflow,Cash Sales,7814.16,UPI,Customer payment received
+2026-08-13,Outflow,Miscellaneous,453.24,Cash,Business expense paid
+2026-08-13,Inflow,Cash Sales,2059.1,UPI,Customer payment received
+2026-08-13,Inflow,Customer Payment,1836.48,Bank Transfer,Customer payment received
+2026-08-13,Inflow,UPI Sales,536.02,UPI,Customer payment received
+2026-08-13,Outflow,Inventory Purchase,5235.98,Bank Transfer,Business expense paid
+2026-08-13,Inflow,Customer Payment,3576.3,Cash,Customer payment received
+2026-08-13,Outflow,Rent,5228.78,UPI,Business expense paid
+2026-08-14,Inflow,UPI Sales,4047.35,Cash,Customer payment received
+2026-08-14,Inflow,Customer Payment,3547.25,Cash,Customer payment received
+2026-08-14,Outflow,Rent,5491.71,Bank Transfer,Business expense paid
+2026-08-14,Inflow,Customer Payment,6737.19,UPI,Customer payment received
+2026-08-14,Inflow,Customer Payment,3420.89,Cash,Customer payment received
+2026-08-14,Inflow,Customer Payment,3170.93,Cash,Customer payment received
+2026-08-15,Outflow,Transport,2735.56,Cash,Business expense paid
+2026-08-15,Outflow,Miscellaneous,3638.93,Bank Transfer,Business expense paid
+2026-08-15,Inflow,UPI Sales,1033.51,UPI,Customer payment received
+2026-08-15,Inflow,Retail Sales,3372.65,Bank Transfer,Customer payment received
+2026-08-15,Outflow,Miscellaneous,3612.79,UPI,Business expense paid
+2026-08-15,Inflow,Cash Sales,2117.59,Bank Transfer,Customer payment received
+2026-08-15,Inflow,Customer Payment,4302.26,Cash,Customer payment received
+2026-08-16,Outflow,Inventory Purchase,2806.72,Bank Transfer,Business expense paid
+2026-08-16,Outflow,Inventory Purchase,1168.84,UPI,Business expense paid
+2026-08-16,Inflow,Cash Sales,5411.29,UPI,Customer payment received
+2026-08-16,Outflow,Staff Salary,2788.94,Bank Transfer,Business expense paid
+2026-08-16,Outflow,Staff Salary,3331.45,Cash,Business expense paid
+2026-08-16,Outflow,Inventory Purchase,3280.78,Cash,Business expense paid
+2026-08-17,Inflow,Cash Sales,3781.93,UPI,Customer payment received
+2026-08-17,Inflow,Retail Sales,4205.71,Cash,Customer payment received
+2026-08-17,Outflow,Staff Salary,5922.45,Bank Transfer,Business expense paid
+2026-08-17,Inflow,UPI Sales,2788.11,UPI,Customer payment received
+2026-08-17,Outflow,Miscellaneous,1674.5,Bank Transfer,Business expense paid
+2026-08-17,Inflow,Customer Payment,4398.29,Bank Transfer,Customer payment received
+2026-08-17,Inflow,Retail Sales,1405.28,Cash,Customer payment received
+2026-08-18,Outflow,Rent,1292.42,Bank Transfer,Business expense paid
+2026-08-18,Outflow,Maintenance,5235.23,Cash,Business expense paid
+2026-08-18,Inflow,Retail Sales,6753.49,Cash,Customer payment received
+2026-08-18,Inflow,UPI Sales,4128.25,UPI,Customer payment received
+2026-08-19,Outflow,Inventory Purchase,376.24,UPI,Business expense paid
+2026-08-19,Outflow,Inventory Purchase,3683.54,Bank Transfer,Business expense paid
+2026-08-19,Outflow,Transport,4068.43,UPI,Business expense paid
+2026-08-19,Inflow,Customer Payment,1526.51,Cash,Customer payment received
+2026-08-20,Outflow,Inventory Purchase,5250.37,UPI,Business expense paid
+2026-08-20,Inflow,Cash Sales,5986.06,Cash,Customer payment received
+2026-08-20,Inflow,UPI Sales,7427.7,Bank Transfer,Customer payment received
+2026-08-21,Outflow,Inventory Purchase,2039.74,UPI,Business expense paid
+2026-08-21,Outflow,Maintenance,3358.04,UPI,Business expense paid
+2026-08-21,Inflow,Retail Sales,3121.75,Bank Transfer,Customer payment received
+2026-08-21,Inflow,Cash Sales,3291.9,UPI,Customer payment received
+2026-08-22,Inflow,Retail Sales,3722.03,Cash,Customer payment received
+2026-08-22,Inflow,Cash Sales,1597.02,Cash,Customer payment received
+2026-08-22,Inflow,UPI Sales,4153.43,UPI,Customer payment received
+2026-08-23,Outflow,Rent,2979.25,UPI,Business expense paid
+2026-08-23,Outflow,Inventory Purchase,2405.13,Cash,Business expense paid
+2026-08-23,Inflow,Cash Sales,4408.74,Bank Transfer,Customer payment received
+2026-08-23,Inflow,Cash Sales,6559.99,Cash,Customer payment received
+2026-08-24,Outflow,Transport,4969.88,Bank Transfer,Business expense paid
+2026-08-24,Inflow,Cash Sales,848.86,Bank Transfer,Customer payment received
+2026-08-24,Inflow,Cash Sales,3226.57,UPI,Customer payment received
+2026-08-24,Inflow,Cash Sales,1080.94,UPI,Customer payment received
+2026-08-24,Inflow,Retail Sales,2493.52,Bank Transfer,Customer payment received
+2026-08-24,Outflow,Staff Salary,3327.14,Cash,Business expense paid
+2026-08-25,Outflow,Rent,1781.22,Cash,Business expense paid
+2026-08-25,Inflow,Cash Sales,1248.81,Cash,Customer payment received
+2026-08-25,Outflow,Miscellaneous,4312.47,UPI,Business expense paid
+2026-08-25,Inflow,UPI Sales,7366.69,Cash,Customer payment received
+2026-08-25,Outflow,Inventory Purchase,2366.36,UPI,Business expense paid
+2026-08-25,Inflow,Cash Sales,319.9,Cash,Customer payment received
+2026-08-26,Outflow,Inventory Purchase,4803.71,Bank Transfer,Business expense paid
+2026-08-26,Inflow,UPI Sales,3077.95,Cash,Customer payment received
+2026-08-26,Outflow,Inventory Purchase,1573.85,UPI,Business expense paid
+2026-08-26,Inflow,Customer Payment,6634.13,Bank Transfer,Customer payment received
+2026-08-26,Outflow,Rent,4646.61,Cash,Business expense paid
+2026-08-26,Inflow,UPI Sales,1477.98,UPI,Customer payment received
+2026-08-26,Outflow,Rent,2942.77,UPI,Business expense paid
+2026-08-27,Inflow,Retail Sales,5243.18,Bank Transfer,Customer payment received
+2026-08-27,Inflow,UPI Sales,2278.01,UPI,Customer payment received
+2026-08-27,Inflow,UPI Sales,1391.66,Bank Transfer,Customer payment received
+2026-08-28,Outflow,Rent,2683.56,Bank Transfer,Business expense paid
+2026-08-28,Outflow,Electricity,5949.28,Cash,Business expense paid
+2026-08-28,Inflow,UPI Sales,2896.65,Bank Transfer,Customer payment received
+2026-08-28,Outflow,Staff Salary,696.82,UPI,Business expense paid
+2026-08-28,Inflow,Retail Sales,2789.96,Bank Transfer,Customer payment received
+2026-08-28,Inflow,Cash Sales,834.56,UPI,Customer payment received
+2026-08-28,Outflow,Staff Salary,4842.07,Bank Transfer,Business expense paid
+2026-08-29,Inflow,Customer Payment,5311.76,Cash,Customer payment received
+2026-08-29,Inflow,UPI Sales,2864.11,Cash,Customer payment received
+2026-08-29,Inflow,Customer Payment,5396.16,UPI,Customer payment received
+2026-08-29,Outflow,Miscellaneous,2898.19,Cash,Business expense paid
+2026-08-29,Inflow,Customer Payment,7704.83,UPI,Customer payment received
+2026-08-29,Outflow,Inventory Purchase,1188.77,Cash,Business expense paid
+2026-08-29,Inflow,Retail Sales,6627.91,UPI,Customer payment received
+2026-08-30,Outflow,Electricity,5577.63,UPI,Business expense paid
+2026-08-30,Inflow,Cash Sales,1473.6,UPI,Customer payment received
+2026-08-30,Outflow,Staff Salary,1613.21,Cash,Business expense paid
+2026-08-30,Inflow,UPI Sales,2279.26,Bank Transfer,Customer payment received
+2026-08-30,Outflow,Transport,4991.19,Cash,Business expense paid
+2026-08-30,Inflow,Retail Sales,578.43,UPI,Customer payment received
+2026-08-31,Inflow,Retail Sales,974.85,Bank Transfer,Customer payment received
+2026-08-31,Inflow,Retail Sales,2652.54,Cash,Customer payment received
+2026-08-31,Inflow,Customer Payment,7024.69,Cash,Customer payment received
+2026-08-31,Outflow,Electricity,3532.61,UPI,Business expense paid
+2026-09-01,Inflow,Cash Sales,3358.28,Cash,Customer payment received
+2026-09-01,Outflow,Electricity,4110.96,Cash,Business expense paid
+2026-09-01,Outflow,Maintenance,1019.41,Bank Transfer,Business expense paid
+2026-09-01,Inflow,Retail Sales,2783.47,Bank Transfer,Customer payment received
+2026-09-01,Inflow,UPI Sales,2021.83,Cash,Customer payment received
+2026-09-01,Outflow,Rent,4970.39,UPI,Business expense paid
+2026-09-02,Outflow,Staff Salary,3716.95,UPI,Business expense paid
+2026-09-02,Inflow,UPI Sales,6685.86,Bank Transfer,Customer payment received
+2026-09-02,Outflow,Maintenance,1048.97,UPI,Business expense paid
+2026-09-02,Inflow,Retail Sales,498.75,UPI,Customer payment received
+2026-09-02,Inflow,Retail Sales,4531.38,UPI,Customer payment received
+2026-09-02,Outflow,Staff Salary,2749.17,Bank Transfer,Business expense paid
+2026-09-02,Inflow,Retail Sales,436.2,Cash,Customer payment received
+2026-09-03,Inflow,Cash Sales,772.39,Bank Transfer,Customer payment received
+2026-09-03,Inflow,Retail Sales,747.86,Bank Transfer,Customer payment received
+2026-09-03,Outflow,Miscellaneous,4231.2,UPI,Business expense paid
+2026-09-03,Inflow,Retail Sales,1395.32,UPI,Customer payment received
+2026-09-03,Outflow,Maintenance,786.07,UPI,Business expense paid
+2026-09-03,Inflow,Cash Sales,2062.49,UPI,Customer payment received
+2026-09-04,Inflow,Customer Payment,5349.07,Cash,Customer payment received
+2026-09-04,Inflow,Cash Sales,6399.12,Bank Transfer,Customer payment received
+2026-09-04,Inflow,Retail Sales,3027.62,Bank Transfer,Customer payment received
+2026-09-04,Inflow,UPI Sales,1662.03,UPI,Customer payment received
+2026-09-04,Outflow,Maintenance,1641.77,Cash,Business expense paid
+2026-09-04,Inflow,UPI Sales,6385.6,UPI,Customer payment received
+2026-09-05,Outflow,Miscellaneous,3789.9,UPI,Business expense paid
+2026-09-05,Inflow,UPI Sales,5145.6,UPI,Customer payment received
+2026-09-05,Outflow,Transport,447.27,UPI,Business expense paid
+2026-09-05,Inflow,Customer Payment,5274.89,UPI,Customer payment received
+2026-09-06,Inflow,Retail Sales,4059.46,Cash,Customer payment received
+2026-09-06,Inflow,Customer Payment,5318.17,Bank Transfer,Customer payment received
+2026-09-06,Inflow,Customer Payment,6918.65,Cash,Customer payment received
+2026-09-06,Outflow,Transport,972.24,UPI,Business expense paid
+2026-09-06,Outflow,Inventory Purchase,4191.18,UPI,Business expense paid
+2026-09-06,Inflow,UPI Sales,595.88,UPI,Customer payment received
+2026-09-07,Inflow,UPI Sales,3274.89,Cash,Customer payment received
+2026-09-07,Inflow,Cash Sales,7148.31,Bank Transfer,Customer payment received
+2026-09-07,Inflow,Cash Sales,1113.84,UPI,Customer payment received
+2026-09-07,Inflow,Customer Payment,620.88,UPI,Customer payment received
+2026-09-07,Outflow,Inventory Purchase,618.09,Bank Transfer,Business expense paid
+2026-09-07,Inflow,Retail Sales,4216.06,Cash,Customer payment received
+2026-09-08,Inflow,Cash Sales,7555.83,Bank Transfer,Customer payment received
+2026-09-08,Inflow,Cash Sales,3473.41,UPI,Customer payment received
+2026-09-08,Outflow,Rent,321.48,UPI,Business expense paid
+2026-09-08,Inflow,Customer Payment,2054.39,UPI,Customer payment received
+2026-09-08,Inflow,UPI Sales,380.29,Cash,Customer payment received
+2026-09-08,Inflow,Retail Sales,5258.06,Cash,Customer payment received
+2026-09-09,Inflow,Customer Payment,2554.73,Cash,Customer payment received
+2026-09-09,Inflow,Retail Sales,7386.29,Cash,Customer payment received
+2026-09-09,Inflow,Cash Sales,1153.22,Cash,Customer payment received
+2026-09-09,Inflow,Retail Sales,3195.15,Cash,Customer payment received
+2026-09-10,Inflow,UPI Sales,7561.68,Cash,Customer payment received
+2026-09-10,Outflow,Staff Salary,1345.33,Cash,Business expense paid
+2026-09-10,Inflow,Retail Sales,2501.48,Cash,Customer payment received
+2026-09-10,Outflow,Inventory Purchase,1698.9,Bank Transfer,Business expense paid
+2026-09-10,Inflow,Retail Sales,2002.19,Cash,Customer payment received
+2026-09-10,Outflow,Maintenance,4703.4,Bank Transfer,Business expense paid
+2026-09-11,Inflow,Customer Payment,632.44,Cash,Customer payment received
+2026-09-11,Inflow,Retail Sales,5890.05,Bank Transfer,Customer payment received
+2026-09-11,Outflow,Miscellaneous,3133.95,UPI,Business expense paid
+2026-09-11,Inflow,Retail Sales,4845.68,Bank Transfer,Customer payment received
+2026-09-11,Inflow,Cash Sales,1467.08,Cash,Customer payment received
+2026-09-12,Inflow,Customer Payment,3640.26,Cash,Customer payment received
+2026-09-12,Inflow,Customer Payment,2199.43,UPI,Customer payment received
+2026-09-12,Outflow,Staff Salary,775.23,Cash,Business expense paid
+2026-09-12,Outflow,Inventory Purchase,3419.49,Cash,Business expense paid
+2026-09-12,Inflow,Cash Sales,5596.71,UPI,Customer payment received
+2026-09-12,Inflow,Customer Payment,340.27,Cash,Customer payment received
+2026-09-13,Inflow,Retail Sales,384.94,UPI,Customer payment received
+2026-09-13,Outflow,Inventory Purchase,4134.6,Bank Transfer,Business expense paid
+2026-09-13,Outflow,Maintenance,5284.57,UPI,Business expense paid
+2026-09-13,Inflow,Cash Sales,3754.3,Cash,Customer payment received
+2026-09-14,Inflow,UPI Sales,3477.19,Bank Transfer,Customer payment received
+2026-09-14,Inflow,UPI Sales,1585.02,UPI,Customer payment received
+2026-09-14,Inflow,Retail Sales,4829.16,UPI,Customer payment received
+2026-09-14,Inflow,Customer Payment,1101.86,Cash,Customer payment received
+2026-09-14,Inflow,Customer Payment,706.59,Cash,Customer payment received
+2026-09-15,Inflow,Customer Payment,6652.88,UPI,Customer payment received
+2026-09-15,Inflow,Cash Sales,750.84,UPI,Customer payment received
+2026-09-15,Outflow,Rent,4304.55,Bank Transfer,Business expense paid
+2026-09-15,Outflow,Electricity,2753.15,Cash,Business expense paid
+2026-09-16,Inflow,UPI Sales,3159.95,UPI,Customer payment received
+2026-09-16,Inflow,Cash Sales,6202.73,UPI,Customer payment received
+2026-09-16,Outflow,Transport,1206.18,Cash,Business expense paid
+2026-09-17,Inflow,Cash Sales,1211.19,Cash,Customer payment received
+2026-09-17,Outflow,Staff Salary,2426.23,UPI,Business expense paid
+2026-09-17,Outflow,Transport,1269.96,UPI,Business expense paid
+2026-09-17,Outflow,Electricity,351.94,UPI,Business expense paid
+2026-09-17,Inflow,UPI Sales,2402.65,UPI,Customer payment received
+2026-09-17,Outflow,Electricity,5655.94,Cash,Business expense paid
+2026-09-18,Inflow,Cash Sales,3202.24,UPI,Customer payment received
+2026-09-18,Inflow,Retail Sales,3828.04,UPI,Customer payment received
+2026-09-18,Outflow,Rent,667.49,Bank Transfer,Business expense paid
+2026-09-18,Outflow,Electricity,2733.73,UPI,Business expense paid
+2026-09-18,Inflow,Retail Sales,1523.59,UPI,Customer payment received
+2026-09-19,Outflow,Staff Salary,277.74,Cash,Business expense paid
+2026-09-19,Inflow,Customer Payment,2423.04,Bank Transfer,Customer payment received
+2026-09-19,Outflow,Rent,1777.31,Cash,Business expense paid
+2026-09-19,Inflow,Retail Sales,6280.67,UPI,Customer payment received
+2026-09-19,Inflow,Customer Payment,658.05,Cash,Customer payment received
+2026-09-19,Outflow,Inventory Purchase,2206.34,Cash,Business expense paid
+2026-09-20,Outflow,Maintenance,5419.03,Cash,Business expense paid
+2026-09-20,Outflow,Electricity,5787.69,Bank Transfer,Business expense paid
+2026-09-20,Outflow,Transport,503.1,Cash,Business expense paid
+2026-09-21,Inflow,Retail Sales,2275.28,Bank Transfer,Customer payment received
+2026-09-21,Outflow,Transport,3478.92,Bank Transfer,Business expense paid
+2026-09-21,Inflow,Retail Sales,4985.66,UPI,Customer payment received
+2026-09-22,Inflow,UPI Sales,5844.06,Bank Transfer,Customer payment received
+2026-09-22,Inflow,Cash Sales,5564.91,UPI,Customer payment received
+2026-09-22,Inflow,Retail Sales,2051.05,Cash,Customer payment received
+2026-09-22,Inflow,Cash Sales,5750.33,UPI,Customer payment received
+2026-09-22,Inflow,UPI Sales,3828.91,UPI,Customer payment received
+2026-09-22,Inflow,Retail Sales,7581.88,UPI,Customer payment received
+2026-09-22,Outflow,Rent,5199.52,Bank Transfer,Business expense paid
+2026-09-23,Outflow,Staff Salary,561.18,Cash,Business expense paid
+2026-09-23,Outflow,Rent,5872.76,Bank Transfer,Business expense paid
+2026-09-23,Outflow,Miscellaneous,5258.39,Cash,Business expense paid
+2026-09-23,Inflow,UPI Sales,6106.63,Bank Transfer,Customer payment received
+2026-09-23,Inflow,Retail Sales,5379.15,Cash,Customer payment received
+2026-09-23,Inflow,Retail Sales,4613.4,Cash,Customer payment received
+2026-09-23,Inflow,UPI Sales,802.08,Cash,Customer payment received
+2026-09-24,Outflow,Inventory Purchase,2466.22,Bank Transfer,Business expense paid
+2026-09-24,Inflow,Customer Payment,3778.07,Bank Transfer,Customer payment received
+2026-09-24,Inflow,Cash Sales,3696.26,Bank Transfer,Customer payment received
+2026-09-24,Inflow,UPI Sales,1024.08,UPI,Customer payment received
+2026-09-24,Inflow,Retail Sales,2705.09,UPI,Customer payment received
+2026-09-25,Inflow,Customer Payment,4595.22,Cash,Customer payment received
+2026-09-25,Inflow,Cash Sales,3095.88,Bank Transfer,Customer payment received
+2026-09-25,Inflow,Customer Payment,4204.29,UPI,Customer payment received
+2026-09-25,Inflow,Customer Payment,7183.72,Bank Transfer,Customer payment received
+2026-09-26,Inflow,UPI Sales,7751.72,Bank Transfer,Customer payment received
+2026-09-26,Outflow,Staff Salary,4490.44,Bank Transfer,Business expense paid
+2026-09-26,Outflow,Miscellaneous,3015.08,UPI,Business expense paid
+2026-09-26,Outflow,Transport,2073.46,Cash,Business expense paid
+2026-09-26,Outflow,Electricity,1140.95,Bank Transfer,Business expense paid
+2026-09-26,Outflow,Electricity,3258.92,UPI,Business expense paid
+2026-09-26,Outflow,Rent,660.56,UPI,Business expense paid
+2026-09-27,Inflow,Retail Sales,2582.97,Cash,Customer payment received
+2026-09-27,Inflow,Cash Sales,6148.78,UPI,Customer payment received
+2026-09-27,Inflow,Cash Sales,5317.84,UPI,Customer payment received
+2026-09-27,Inflow,UPI Sales,6608.26,Cash,Customer payment received
+2026-09-27,Inflow,Retail Sales,1169.66,Cash,Customer payment received
+2026-09-28,Inflow,Customer Payment,7271.27,Bank Transfer,Customer payment received
+2026-09-28,Inflow,UPI Sales,5026.09,Bank Transfer,Customer payment received
+2026-09-28,Inflow,UPI Sales,5983.13,Bank Transfer,Customer payment received
+2026-09-29,Inflow,Customer Payment,5992.57,Cash,Customer payment received
+2026-09-29,Inflow,Customer Payment,329.39,Bank Transfer,Customer payment received
+2026-09-29,Inflow,Retail Sales,5345.67,UPI,Customer payment received
+2026-09-29,Outflow,Miscellaneous,647.05,Bank Transfer,Business expense paid
+2026-09-29,Outflow,Inventory Purchase,1450.07,Bank Transfer,Business expense paid
+2026-09-30,Inflow,Retail Sales,3443.96,Cash,Customer payment received
+2026-09-30,Outflow,Inventory Purchase,4643.18,Bank Transfer,Business expense paid
+2026-09-30,Inflow,Cash Sales,2304.21,UPI,Customer payment received
+2026-09-30,Outflow,Electricity,3450.56,Bank Transfer,Business expense paid
+2026-09-30,Inflow,UPI Sales,3844.76,UPI,Customer payment received
+2026-09-30,Inflow,Cash Sales,3478.26,Bank Transfer,Customer payment received
+2026-09-30,Inflow,Customer Payment,438.6,Cash,Customer payment received
+2026-10-01,Outflow,Maintenance,5178.38,Bank Transfer,Business expense paid
+2026-10-01,Outflow,Electricity,4572.98,UPI,Business expense paid
+2026-10-01,Outflow,Transport,5784.3,Bank Transfer,Business expense paid
+2026-10-01,Inflow,Customer Payment,6686.34,Bank Transfer,Customer payment received
+2026-10-02,Inflow,UPI Sales,1225.9,UPI,Customer payment received
+2026-10-02,Inflow,Customer Payment,4667.22,UPI,Customer payment received
+2026-10-02,Outflow,Transport,1923.98,Bank Transfer,Business expense paid
+2026-10-02,Outflow,Inventory Purchase,479.23,Cash,Business expense paid
+2026-10-02,Outflow,Maintenance,2174.35,Bank Transfer,Business expense paid
+2026-10-02,Inflow,Customer Payment,2144.23,UPI,Customer payment received
+2026-10-03,Inflow,Customer Payment,6376.54,UPI,Customer payment received
+2026-10-03,Inflow,Retail Sales,2242.77,UPI,Customer payment received
+2026-10-03,Inflow,Retail Sales,5979.26,UPI,Customer payment received
+2026-10-03,Outflow,Staff Salary,5237.6,Cash,Business expense paid
+2026-10-03,Outflow,Inventory Purchase,345.82,Bank Transfer,Business expense paid
+2026-10-03,Inflow,Customer Payment,7312.21,Cash,Customer payment received
+2026-10-04,Inflow,Customer Payment,3714.03,UPI,Customer payment received
+2026-10-04,Inflow,Customer Payment,6373.78,Bank Transfer,Customer payment received
+2026-10-04,Inflow,Cash Sales,1314.04,Cash,Customer payment received
+2026-10-05,Inflow,UPI Sales,2322.6,Cash,Customer payment received
+2026-10-05,Inflow,Retail Sales,4198.25,Bank Transfer,Customer payment received
+2026-10-05,Inflow,UPI Sales,2258.82,UPI,Customer payment received
+2026-10-05,Inflow,UPI Sales,651.5,Bank Transfer,Customer payment received
+2026-10-05,Inflow,Retail Sales,3768.58,UPI,Customer payment received
+2026-10-05,Inflow,Customer Payment,3917.03,UPI,Customer payment received
+2026-10-06,Inflow,Retail Sales,4434.96,UPI,Customer payment received
+2026-10-06,Inflow,UPI Sales,6716.54,UPI,Customer payment received
+2026-10-06,Inflow,Retail Sales,3676.75,Cash,Customer payment received
+2026-10-06,Inflow,UPI Sales,7474.5,UPI,Customer payment received
+2026-10-06,Outflow,Inventory Purchase,3778.99,UPI,Business expense paid
+2026-10-06,Inflow,Cash Sales,4725.8,Bank Transfer,Customer payment received
+2026-10-07,Outflow,Maintenance,5958.34,UPI,Business expense paid
+2026-10-07,Outflow,Transport,2488.54,Bank Transfer,Business expense paid
+2026-10-07,Inflow,Customer Payment,5466.26,UPI,Customer payment received
+2026-10-07,Inflow,Customer Payment,2584.8,Cash,Customer payment received
+2026-10-07,Outflow,Rent,4384.08,UPI,Business expense paid
+2026-10-07,Inflow,Cash Sales,5825.31,Bank Transfer,Customer payment received
+2026-10-07,Inflow,Cash Sales,7011.3,Cash,Customer payment received
+2026-10-08,Outflow,Inventory Purchase,2846.17,Cash,Business expense paid
+2026-10-08,Inflow,Cash Sales,3525.9,UPI,Customer payment received
+2026-10-08,Inflow,UPI Sales,2772.32,UPI,Customer payment received
+2026-10-08,Outflow,Miscellaneous,3947.36,Cash,Business expense paid
+2026-10-09,Outflow,Transport,258.76,Cash,Business expense paid
+2026-10-09,Inflow,Retail Sales,5016.82,Bank Transfer,Customer payment received
+2026-10-09,Outflow,Electricity,4497.69,UPI,Business expense paid
+2026-10-09,Inflow,Customer Payment,7932.73,Cash,Customer payment received
+2026-10-10,Outflow,Staff Salary,1911.24,UPI,Business expense paid
+2026-10-10,Inflow,Cash Sales,636.79,UPI,Customer payment received
+2026-10-10,Outflow,Miscellaneous,2190.37,Bank Transfer,Business expense paid
+2026-10-11,Inflow,Retail Sales,5632.19,Cash,Customer payment received
+2026-10-11,Inflow,Retail Sales,2420.44,UPI,Customer payment received
+2026-10-11,Outflow,Maintenance,2789.23,Cash,Business expense paid
+2026-10-12,Inflow,Customer Payment,7358.09,Bank Transfer,Customer payment received
+2026-10-12,Inflow,Cash Sales,4782.93,Cash,Customer payment received
+2026-10-12,Inflow,UPI Sales,5733.01,UPI,Customer payment received
+2026-10-12,Inflow,UPI Sales,1584.82,UPI,Customer payment received
+2026-10-12,Inflow,Retail Sales,7153.75,UPI,Customer payment received
+2026-10-13,Inflow,UPI Sales,5272.83,Bank Transfer,Customer payment received
+2026-10-13,Inflow,Cash Sales,6396.25,Bank Transfer,Customer payment received
+2026-10-13,Inflow,UPI Sales,6822.97,Cash,Customer payment received
+2026-10-13,Outflow,Staff Salary,3446.19,Bank Transfer,Business expense paid
+2026-10-13,Outflow,Transport,5837.75,Cash,Business expense paid
+2026-10-13,Inflow,Cash Sales,4395.73,UPI,Customer payment received
+2026-10-14,Inflow,UPI Sales,538.36,Bank Transfer,Customer payment received
+2026-10-14,Inflow,UPI Sales,2711.69,UPI,Customer payment received
+2026-10-14,Inflow,UPI Sales,1301.37,Cash,Customer payment received
+2026-10-14,Inflow,UPI Sales,3185.99,Bank Transfer,Customer payment received
+2026-10-14,Outflow,Staff Salary,5970.18,UPI,Business expense paid
+2026-10-14,Outflow,Transport,3719.89,Cash,Business expense paid
+2026-10-15,Inflow,Customer Payment,2920.98,UPI,Customer payment received
+2026-10-15,Inflow,Retail Sales,4398.38,UPI,Customer payment received
+2026-10-15,Outflow,Electricity,5063.59,Bank Transfer,Business expense paid
+2026-10-15,Inflow,Customer Payment,5759.41,Cash,Customer payment received
+2026-10-15,Inflow,UPI Sales,5515.88,UPI,Customer payment received
+2026-10-15,Outflow,Miscellaneous,3360.0,UPI,Business expense paid
+2026-10-16,Inflow,Retail Sales,3719.14,Bank Transfer,Customer payment received
+2026-10-16,Outflow,Staff Salary,2530.32,UPI,Business expense paid
+2026-10-16,Outflow,Rent,3815.75,UPI,Business expense paid
+2026-10-16,Outflow,Electricity,1367.61,UPI,Business expense paid
+2026-10-16,Inflow,Retail Sales,3961.7,Cash,Customer payment received
+2026-10-16,Inflow,Customer Payment,4866.21,Cash,Customer payment received
+2026-10-17,Inflow,Cash Sales,6998.76,UPI,Customer payment received
+2026-10-17,Outflow,Miscellaneous,923.96,UPI,Business expense paid
+2026-10-17,Outflow,Inventory Purchase,5287.13,Cash,Business expense paid
+2026-10-17,Inflow,Cash Sales,4249.35,Cash,Customer payment received
+2026-10-17,Inflow,UPI Sales,4083.92,Bank Transfer,Customer payment received
+2026-10-18,Inflow,Cash Sales,3276.36,Bank Transfer,Customer payment received
+2026-10-18,Outflow,Electricity,3548.22,Bank Transfer,Business expense paid
+2026-10-18,Outflow,Electricity,2563.99,Bank Transfer,Business expense paid
+2026-10-19,Outflow,Electricity,1362.75,UPI,Business expense paid
+2026-10-19,Inflow,Retail Sales,3681.45,UPI,Customer payment received
+2026-10-19,Inflow,Customer Payment,780.92,Cash,Customer payment received
+2026-10-19,Inflow,Retail Sales,4230.33,Cash,Customer payment received
+2026-10-19,Inflow,Cash Sales,447.19,Cash,Customer payment received
+2026-10-19,Outflow,Electricity,5257.88,Cash,Business expense paid
+2026-10-20,Inflow,Retail Sales,3062.11,Cash,Customer payment received
+2026-10-20,Inflow,Cash Sales,1922.43,UPI,Customer payment received
+2026-10-20,Outflow,Electricity,5987.36,Cash,Business expense paid
+2026-10-20,Outflow,Miscellaneous,213.44,Bank Transfer,Business expense paid
+2026-10-21,Inflow,Retail Sales,6001.67,UPI,Customer payment received
+2026-10-21,Inflow,Customer Payment,6220.71,UPI,Customer payment received
+2026-10-21,Outflow,Staff Salary,4260.2,Bank Transfer,Business expense paid
+2026-10-22,Outflow,Maintenance,2563.75,Cash,Business expense paid
+2026-10-22,Inflow,Cash Sales,2985.92,Bank Transfer,Customer payment received
+2026-10-22,Inflow,Retail Sales,7597.2,Cash,Customer payment received
+2026-10-23,Outflow,Electricity,5239.88,Cash,Business expense paid
+2026-10-23,Inflow,Cash Sales,6783.97,Cash,Customer payment received
+2026-10-23,Inflow,UPI Sales,5767.85,Bank Transfer,Customer payment received
+2026-10-23,Inflow,UPI Sales,2463.73,Bank Transfer,Customer payment received
+2026-10-23,Outflow,Maintenance,1743.77,Cash,Business expense paid
+2026-10-23,Inflow,Retail Sales,6785.18,UPI,Customer payment received
+2026-10-23,Inflow,Retail Sales,559.25,Bank Transfer,Customer payment received
+2026-10-24,Inflow,Retail Sales,1246.49,UPI,Customer payment received
+2026-10-24,Outflow,Maintenance,2832.89,Cash,Business expense paid
+2026-10-24,Inflow,Customer Payment,4352.34,Cash,Customer payment received
+2026-10-24,Outflow,Staff Salary,1958.53,Bank Transfer,Business expense paid
+2026-10-24,Inflow,Cash Sales,1223.64,Bank Transfer,Customer payment received
+2026-10-24,Outflow,Rent,2528.38,Bank Transfer,Business expense paid
+2026-10-24,Inflow,UPI Sales,6643.09,Bank Transfer,Customer payment received
+2026-10-25,Inflow,Retail Sales,2745.42,Bank Transfer,Customer payment received
+2026-10-25,Inflow,Retail Sales,660.76,Cash,Customer payment received
+2026-10-25,Outflow,Miscellaneous,3582.95,UPI,Business expense paid
+2026-10-25,Inflow,Customer Payment,6004.96,UPI,Customer payment received
+2026-10-25,Outflow,Inventory Purchase,2289.36,Bank Transfer,Business expense paid
+2026-10-26,Outflow,Staff Salary,3516.49,Cash,Business expense paid
+2026-10-26,Outflow,Transport,2649.83,Cash,Business expense paid
+2026-10-26,Inflow,Customer Payment,5498.58,UPI,Customer payment received
+2026-10-27,Inflow,Retail Sales,3284.9,Bank Transfer,Customer payment received
+2026-10-27,Outflow,Miscellaneous,225.31,Bank Transfer,Business expense paid
+2026-10-27,Inflow,Cash Sales,5431.17,UPI,Customer payment received
+2026-10-27,Inflow,Cash Sales,7620.95,Bank Transfer,Customer payment received
+2026-10-28,Inflow,Retail Sales,3960.63,Bank Transfer,Customer payment received
+2026-10-28,Inflow,UPI Sales,1107.02,Cash,Customer payment received
+2026-10-28,Outflow,Staff Salary,5221.76,Bank Transfer,Business expense paid
+2026-10-29,Inflow,Cash Sales,3147.56,Bank Transfer,Customer payment received
+2026-10-29,Outflow,Rent,3402.0,Bank Transfer,Business expense paid
+2026-10-29,Outflow,Inventory Purchase,4012.65,Bank Transfer,Business expense paid
+2026-10-29,Outflow,Maintenance,1451.3,UPI,Business expense paid
+2026-10-30,Inflow,Retail Sales,1351.83,Bank Transfer,Customer payment received
+2026-10-30,Inflow,Cash Sales,2730.33,UPI,Customer payment received
+2026-10-30,Outflow,Maintenance,1355.45,UPI,Business expense paid
+2026-10-30,Inflow,Cash Sales,5434.87,UPI,Customer payment received
+2026-10-30,Inflow,UPI Sales,4487.3,Bank Transfer,Customer payment received
+2026-10-30,Outflow,Maintenance,1602.96,Cash,Business expense paid
+2026-10-30,Inflow,UPI Sales,5762.25,Cash,Customer payment received
+2026-10-31,Inflow,Cash Sales,3413.03,UPI,Customer payment received
+2026-10-31,Outflow,Staff Salary,257.56,Bank Transfer,Business expense paid
+2026-10-31,Outflow,Rent,3210.39,Cash,Business expense paid
+2026-10-31,Outflow,Miscellaneous,4689.15,Bank Transfer,Business expense paid
+2026-11-01,Inflow,UPI Sales,6899.9,Cash,Customer payment received
+2026-11-01,Inflow,Cash Sales,3245.87,UPI,Customer payment received
+2026-11-01,Inflow,UPI Sales,3653.41,UPI,Customer payment received
+2026-11-02,Outflow,Rent,1494.93,UPI,Business expense paid
+2026-11-02,Inflow,Customer Payment,4674.31,UPI,Customer payment received
+2026-11-02,Inflow,Cash Sales,7070.26,Bank Transfer,Customer payment received
+2026-11-03,Inflow,Customer Payment,6330.63,UPI,Customer payment received
+2026-11-03,Inflow,Retail Sales,3364.64,Bank Transfer,Customer payment received
+2026-11-03,Outflow,Transport,1630.3,UPI,Business expense paid
+2026-11-04,Inflow,UPI Sales,4783.01,UPI,Customer payment received
+2026-11-04,Inflow,Customer Payment,7933.22,Cash,Customer payment received
+2026-11-04,Inflow,Customer Payment,882.16,UPI,Customer payment received
+2026-11-04,Inflow,UPI Sales,1807.91,Cash,Customer payment received
+2026-11-04,Outflow,Inventory Purchase,4731.67,UPI,Business expense paid
+2026-11-04,Inflow,Retail Sales,6545.65,Bank Transfer,Customer payment received
+2026-11-05,Inflow,Retail Sales,2957.98,Cash,Customer payment received
+2026-11-05,Inflow,Customer Payment,4448.86,Bank Transfer,Customer payment received
+2026-11-05,Outflow,Rent,4202.56,Cash,Business expense paid
+2026-11-05,Inflow,Customer Payment,2072.93,Cash,Customer payment received
+2026-11-05,Inflow,UPI Sales,4378.38,Bank Transfer,Customer payment received
+2026-11-05,Inflow,UPI Sales,5533.08,UPI,Customer payment received
+2026-11-06,Inflow,UPI Sales,3632.68,Cash,Customer payment received
+2026-11-06,Inflow,UPI Sales,3730.67,UPI,Customer payment received
+2026-11-06,Inflow,Retail Sales,1354.89,Bank Transfer,Customer payment received
+2026-11-06,Outflow,Electricity,2472.78,Cash,Business expense paid
+2026-11-07,Inflow,Cash Sales,4136.42,Bank Transfer,Customer payment received
+2026-11-07,Outflow,Inventory Purchase,1470.88,UPI,Business expense paid
+2026-11-07,Inflow,Cash Sales,1655.94,Cash,Customer payment received
+2026-11-08,Outflow,Staff Salary,5010.47,UPI,Business expense paid
+2026-11-08,Outflow,Rent,4250.2,Bank Transfer,Business expense paid
+2026-11-08,Inflow,UPI Sales,7746.31,UPI,Customer payment received
+2026-11-08,Outflow,Maintenance,4366.32,Bank Transfer,Business expense paid
+2026-11-09,Inflow,Retail Sales,1552.79,Cash,Customer payment received
+2026-11-09,Outflow,Maintenance,3697.77,UPI,Business expense paid
+2026-11-09,Inflow,Retail Sales,3202.79,Cash,Customer payment received
+2026-11-10,Inflow,UPI Sales,2776.86,Cash,Customer payment received
+2026-11-10,Inflow,Customer Payment,1034.57,UPI,Customer payment received
+2026-11-10,Inflow,Retail Sales,4002.85,UPI,Customer payment received
+2026-11-10,Inflow,Customer Payment,2524.41,Bank Transfer,Customer payment received
+2026-11-10,Outflow,Electricity,3069.12,UPI,Business expense paid
+2026-11-11,Inflow,Cash Sales,3321.93,UPI,Customer payment received
+2026-11-11,Inflow,Cash Sales,7622.15,Bank Transfer,Customer payment received
+2026-11-11,Inflow,Retail Sales,6364.13,UPI,Customer payment received
+2026-11-11,Inflow,Cash Sales,3500.15,UPI,Customer payment received
+2026-11-11,Inflow,UPI Sales,7055.64,Bank Transfer,Customer payment received
+2026-11-11,Inflow,Cash Sales,6088.65,UPI,Customer payment received
+2026-11-11,Inflow,Retail Sales,1440.97,UPI,Customer payment received
+2026-11-12,Outflow,Transport,4371.13,Bank Transfer,Business expense paid
+2026-11-12,Inflow,Customer Payment,6142.58,Bank Transfer,Customer payment received
+2026-11-12,Inflow,Cash Sales,7184.53,Bank Transfer,Customer payment received
+2026-11-13,Outflow,Transport,4626.03,Bank Transfer,Business expense paid
+2026-11-13,Inflow,Cash Sales,4492.69,UPI,Customer payment received
+2026-11-13,Inflow,Retail Sales,2576.85,Bank Transfer,Customer payment received
+2026-11-13,Inflow,UPI Sales,847.92,Cash,Customer payment received
+2026-11-14,Inflow,Cash Sales,1031.91,Bank Transfer,Customer payment received
+2026-11-14,Outflow,Transport,4415.15,UPI,Business expense paid
+2026-11-14,Outflow,Rent,4983.77,Cash,Business expense paid
+2026-11-14,Outflow,Miscellaneous,463.34,Bank Transfer,Business expense paid
+2026-11-14,Outflow,Miscellaneous,941.63,Cash,Business expense paid
+2026-11-15,Inflow,Retail Sales,772.25,Cash,Customer payment received
+2026-11-15,Inflow,UPI Sales,1844.31,Bank Transfer,Customer payment received
+2026-11-15,Inflow,Retail Sales,3668.61,Bank Transfer,Customer payment received
+2026-11-16,Outflow,Maintenance,4444.0,Bank Transfer,Business expense paid
+2026-11-16,Inflow,Retail Sales,3554.24,Cash,Customer payment received
+2026-11-16,Outflow,Transport,4333.2,Bank Transfer,Business expense paid
+2026-11-16,Inflow,Retail Sales,3156.25,Bank Transfer,Customer payment received
+2026-11-16,Outflow,Staff Salary,5912.18,Cash,Business expense paid
+2026-11-16,Inflow,Retail Sales,1451.93,Bank Transfer,Customer payment received
+2026-11-17,Outflow,Electricity,1760.31,Cash,Business expense paid
+2026-11-17,Inflow,Cash Sales,5138.94,Cash,Customer payment received
+2026-11-17,Inflow,Customer Payment,7608.91,Bank Transfer,Customer payment received
+2026-11-17,Outflow,Transport,3448.53,UPI,Business expense paid
+2026-11-18,Outflow,Electricity,2341.83,UPI,Business expense paid
+2026-11-18,Inflow,UPI Sales,5668.51,Bank Transfer,Customer payment received
+2026-11-18,Inflow,Retail Sales,1239.63,Cash,Customer payment received
+2026-11-19,Outflow,Inventory Purchase,378.98,UPI,Business expense paid
+2026-11-19,Inflow,Retail Sales,1943.13,UPI,Customer payment received
+2026-11-19,Outflow,Miscellaneous,4635.37,Bank Transfer,Business expense paid
+2026-11-19,Inflow,Customer Payment,4121.19,Bank Transfer,Customer payment received
+2026-11-19,Inflow,Customer Payment,6353.78,Cash,Customer payment received
+2026-11-19,Inflow,Cash Sales,6760.28,Cash,Customer payment received
+2026-11-19,Outflow,Maintenance,5091.01,Bank Transfer,Business expense paid
